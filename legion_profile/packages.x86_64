@@ -1,0 +1,24 @@
+# Kernel e Firmware
+linux-zen
+linux-zen-headers
+linux-firmware
+
+# Driver NVIDIA
+nvidia-dkms
+nvidia-utils
+nvidia-settings
+
+# Utilità di Base
+base-devel
+git
+gnupg
+neovim
+htop
+openssh
+
+# Rete
+networkmanager
+
+# Bootloader
+grub
+efibootmgr
